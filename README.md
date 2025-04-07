@@ -18,7 +18,7 @@ We combine methods from computational and cognitive linguistics to analyze how l
   RoBERTa-based sentiment scores are used to bias frame predictions (e.g., negative responses are more likely to reflect negative frames like *Resource Strain*).
 
 - **Statistical Analysis**  
-  OLS regression models examine how frame endorsement varies across experimental conditions and political affiliations.
+  OLS regression models examine how frame endorsement varies across metaphor conditions and political affiliations.
 
 - **Visualizations**  
   Clean barplots and interaction visualizations highlight differences in metaphor usage and frame prevalence.
@@ -27,4 +27,15 @@ We combine methods from computational and cognitive linguistics to analyze how l
 
 - Understand how metaphors influence reasoning about social issues  
 - Investigate how political identity interacts with metaphor framing  
-- Build robust NLP pipelines that combine symbolic and neural methods
+- Build robust NLP pipelines to analyze narrative responses
+
+## References
+Chkhaidze, A., Buyruk, M., & Boroditsky, L. (2021). *Linguistic metaphors shape attitudes toward immigration*. Cognitive Science, 45(6), e12981. https://doi.org/10.1111/cogs.12981
+
+Reimers, N., & Gurevych, I. (2019). Sentence-BERT: Sentence embeddings using Siamese BERT-networks. *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)*. https://arxiv.org/abs/1908.10084
+
+Yin, W., Hay, J., & Roth, D. (2019). Benchmarking zero-shot text classification: Datasets, evaluation and entailment approach. *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)*. https://arxiv.org/abs/1909.00161
+
+Zhou, H., Huang, J., Chen, Y.-C., & Chen, L. (2020). Sentiment classification with pretrained transformers. In *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics* (ACL). https://huggingface.co/docs/transformers/model_doc/roberta
+
+Wolf, T., Debut, L., Sanh, V., et al. (2020). Transformers: State-of-the-art natural language processing. In *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations* (pp. 38–45). https://doi.org/10.18653/v1/2020.emnlp-demos.6
