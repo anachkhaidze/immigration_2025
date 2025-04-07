@@ -20,9 +20,6 @@ We combine methods from computational and cognitive linguistics to analyze how l
 - **Statistical Analysis**  
   OLS regression models examine how frame endorsement varies across metaphor conditions and political affiliations.
 
-- **Visualizations**  
-  Clean barplots and interaction visualizations highlight differences in metaphor usage and frame prevalence.
-
 ## Goals
 
 - Understand how metaphors influence reasoning about social issues  
