@@ -4,7 +4,7 @@ This is an ongoing follow-up project to [Chkhaidze et al., 2021](https://eschola
 
 ## Overview
 
-We combine methods from computational linguistics, political psychology, and social cognition to analyze how language shapes beliefs about immigration.
+We combine methods from computational and cognitive linguistics to analyze how language shapes beliefs about immigration.
 
 ### Key Components
 
