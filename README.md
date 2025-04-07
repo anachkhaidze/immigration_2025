@@ -1,4 +1,4 @@
-# 🧠 Linguistic Metaphors Shape Attitudes Toward Immigration
+# Linguistic Metaphors Shape Attitudes Toward Immigration
 
 This is an ongoing follow-up project to [Chkhaidze et al., 2021](https://escholarship.org/uc/item/1xf1t3vv), exploring how metaphorical framings (e.g., *flood*, *invasion*, *growth*) influence people’s attitudes toward immigration.
 
